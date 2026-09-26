@@ -15,11 +15,11 @@ npm run dev
 
 
 ```
+## Preview:
 
-<img width="1073" height="353" alt="image" src="https://github.com/user-attachments/assets/a3318712-bede-4841-a6bb-869c515d4d28" />
+<img width="1040" height="278" alt="image" src="https://github.com/user-attachments/assets/cb00f112-05a1-4a80-88b6-bb55a3b2e944" />
 
-
-<img width="1069" height="588" alt="image" src="https://github.com/user-attachments/assets/ed165472-00fe-4a08-aff7-a9313558fa3c" />
+<img width="1068" height="584" alt="image" src="https://github.com/user-attachments/assets/5f843afe-d734-4241-9881-5db6d9faf200" />
 
 <img width="1068" height="578" alt="image" src="https://github.com/user-attachments/assets/1810efe2-b0d0-44d4-856e-43590b24f078" />
 
